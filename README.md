@@ -1,7 +1,7 @@
 # About me 🥑 👨🏾‍💻
-I 'm a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.
+I am a seasoned Brand Designer with extensive professional design experience, demonstrating a proven track record in global brand communication and marketing design.
 
-I 've given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many. 
+I've given talks/workshops at design/OS conferences around the globe at Megabyte IT Program, Anything Design MFM Reg 1 Bénin and amongst many others.
 
 Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community and various other communities empowering Africa and the world.
 
