@@ -18,7 +18,8 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Design Team OSCAFEST24 [Open Source Community Africa](https://twitter.com/oscafrica) alongside Team Lead [Perrie](https://github.com/perriefidelis)
 
 # Design Resources to kickstart your journey ⭐️
-_CC: Isaaczara_
+_CC: [Isaaczara]_
+(https://twitter.com/isaaczara_)
 - [Graphic Design Resources](https://twitter.com/isaaczara_/status/1542826249684488193?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 - [Learn UI/UX from scratch](https://twitter.com/isaaczara_/status/1543920774263803906?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 - [Logo Presentation Resources](https://twitter.com/isaaczara_/status/1541679662350454784?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
