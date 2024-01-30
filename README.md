@@ -11,7 +11,7 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Collaboration.
 
 # OSS Engagements 📍
-- Improving the design experience and creating brand and visual assets for [Sustain Open Source Design](https://www.python.org/psf-landing/)
+- Improving the design experience and creating brand and visual assets for [Python Software Foundation ](https://www.python.org/psf-landing/)
 
 - Presently involved in enhancing design/branding initiatives at the [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
 
