@@ -3,7 +3,7 @@ I 'm a Brand Experience Designer with years of professional experience in design
 
 I 've given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many. 
 
-Founder of [Techies Connect](https://twitter.com/CrDiscourse) Tech Community and various other communities empowering Africa and the world.
+Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community and various other communities empowering Africa and the world.
 
 # Mission🛡
 - Dedicated to creating meaningful impact and addressing real-world challenges through design. 
@@ -11,7 +11,7 @@ Founder of [Techies Connect](https://twitter.com/CrDiscourse) Tech Community and
 - Collaboration.
 
 # OSS Engagements 📍
-- Improving the design experience and creating brand and visual assets for [Sustain Open Source Design](https://sosdesign.sustainoss.org/)
+- Improving the design experience and creating brand and visual assets for [Sustain Open Source Design](https://www.python.org/psf-landing/)
 
 - Presently involved in enhancing design/branding initiatives at the [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
 
