@@ -15,7 +15,7 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 
 - Presently involved in enhancing design/branding initiatives at the [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
 
-- Design Team OSCAFEST24 [Open Source Community Africa](https://twitter.com/oscafrica) alongside Team Lead [Perrie](https://github.com/perriefidelis)
+- Design Team OSCAFEST24 [Open Source Community Africa](https://twitter.com/oscafest) alongside Team Lead [Perrie](https://github.com/perriefidelis)
 
 # Design Resources to kickstart your journey ⭐️
  _CC: [Isaaczara](https://twitter.com/isaaczara_)_
