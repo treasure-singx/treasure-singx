@@ -33,14 +33,14 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Moderations
 - Podcasts
 - Q&A Posts
-- [Others](https://treasuredesigner.com)
+- [Others](https://treasurejerry.com)
 
 # Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/treasure_singx)
 
 🔗 [Linkedin](https://www.linkedin.com/in/treasure-jerry-a-72381ujy3u)
 
-🔗 [Website](https://treasuredesigner.com)
+🔗 [Website](https://treasurejerry.com)
 
 # Favorite Quote 📖
 > _The way up is down._
