@@ -11,7 +11,7 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Collaboration.
 
 # OSS Engagements 📍
-- Improving the design experience and creating brand and visual assets for [Python Software Foundation ](https://www.python.org/psf-landing/)
+- Improving the design experience and creating brand and visual assets for [Ubuntu by canonical ](https://www.behance.net/gallery/223966981/Ubuntu-2404-%28Noble-Nombat%29-Branding-Release)
 
 - Presently involved in enhancing design/branding initiatives at the [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
 
@@ -33,14 +33,14 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Moderations
 - Podcasts
 - Q&A Posts
-- [Others](https://treasurejerry.com)
+- [Others](https://bento.me/treasurejerry)
 
 # Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/treasure_singx)
 
 🔗 [Linkedin](https://www.linkedin.com/in/treasure-jerry-a-72381ujy3u)
 
-🔗 [Website](https://treasurejerry.com)
+🔗 [Website](https://bento.me/treasurejerry)
 
 # Favorite Quote 📖
 > _The way up is down._
