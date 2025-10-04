@@ -1,7 +1,7 @@
 # About me 🥑 👨🏾‍💻
 I am a seasoned Brand Designer with extensive professional design experience, demonstrating a proven track record in global brand communication and marketing design.
 
-I've given talks/workshops at design/OS conferences around the globe at Megabyte IT Program, Anything Design MFM Reg 1 Bénin and amongst many others.
+I've given talks/workshops at design/OS conferences around the globe at Megabyte IT Program, Anything Design MFM Reg 1 Bénin, amongst many others.
 
 Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community and various other communities empowering Africa and the world.
 
@@ -33,12 +33,12 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Moderations
 - Podcasts
 - Q&A Posts
-- [Others](https://bento.me/treasurejerry)
+- [Others](https://www.behance.net/treasurejerry)
 
 # Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/treasure_singx)
 
-🔗 [Linkedin](https://www.linkedin.com/in/treasure-jerry-a-72381ujy3u)
+🔗 [Linkedin](https://www.linkedin.com/in/treasuresingx)
 
 🔗 [Website](https://bento.me/treasurejerry)
 
