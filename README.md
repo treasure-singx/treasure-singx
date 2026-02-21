@@ -1,7 +1,7 @@
 # About me 🥑 👨🏾‍💻
 I am a seasoned Brand Designer with extensive professional design experience, demonstrating a proven track record in global brand communication and marketing design.
 
-I've given talks/workshops at design/OS conferences around the globe at Megabyte IT Program, Anything Design MFM Reg 1 Bénin, amongst many others.
+I've given talks/workshops at design/OS conferences around the globe at Megabyte IT Program, amongst many others.
 
 Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community and various other communities empowering Africa and the world.
 
@@ -14,8 +14,6 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 - Improving the design experience and creating brand and visual assets for [Ubuntu by canonical ](https://www.behance.net/gallery/223966981/Ubuntu-2404-%28Noble-Nombat%29-Branding-Release)
 
 - Presently involved in enhancing design/branding initiatives at the [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
-
-- Design Team OSCAFEST24 [Open Source Community Africa](https://twitter.com/oscafest) alongside Team Lead [Perrie](https://github.com/perriefidelis)
 
 # Design Resources to kickstart your journey ⭐️
  _CC: [Isaaczara](https://twitter.com/isaaczara_)_
@@ -40,7 +38,7 @@ Founder of [Techies Connect](https://twitter.com/Techies_Connect) Tech Community
 
 🔗 [Linkedin](https://www.linkedin.com/in/treasuresingx)
 
-🔗 [Website](https://bento.me/treasurejerry)
+🔗 [Website](https://taap.it/treasurejerry)
 
 # Favorite Quote 📖
 > _The way up is down._
